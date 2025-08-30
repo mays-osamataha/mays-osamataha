@@ -1,17 +1,16 @@
+# Hi there, I'm Mays Taha! 👋
+### 🌍 Palestinian | 💻 Computer Engineer
+### 🎯 Full Stack Developer | 💡 Problem Solver
 
-Hi there, I'm Mays Taha! 👋
+---
 
-🌍 Palestinian |💻 Computer Engineer
-
-|🎯 Full Stack Developer |💡Problem Solver
-
-
-
-👨‍💻 I'm a full-stack developer passionate about building impactful applications. I enjoy learning new technologies, improving my problem-solving skills, and collaborating on meaningful projects.
-💡 Currently, I'm working with Python, Flask, Django, JavaScript, Tailwind CSS, React (learning), and Microsoft SQL Server.
+👨‍💻 I'm a full-stack developer passionate about building impactful applications. I enjoy learning new technologies, improving my problem-solving skills, and collaborating on meaningful projects.  
+💡 Currently, I'm working with Python, Flask, Django, JavaScript, Tailwind CSS, React (learning), and Microsoft SQL Server.  
 🌟 I believe in patience, cooperation, and the power of code to drive positive change!
 
-🚀 Technologies & Tools
+---
+
+ 🚀 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
@@ -24,11 +23,12 @@ Hi there, I'm Mays Taha! 👋
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
+---
 
+## 💬 Let’s Build Something Amazing
 
----  
-💬 Let’s Build Something Amazing  
 🚀 I love collaborating with fellow developers, creators, and problem-solvers. If you're working on an open-source project or have a cool idea, let's connect!  
-Reach out to me!  
-[LinkedIn](https://www.linkedin.com/in/mays-taha-034605364) 
+
+Reach out to me:  
+[LinkedIn](https://www.linkedin.com/in/mays-taha-034605364)
 
