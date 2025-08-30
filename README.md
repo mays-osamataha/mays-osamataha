@@ -1,3 +1,5 @@
+## Heading 2 (smaller)
+### Heading 3 (even smaller)
 Hi there, I'm Mays Taha! 👋
 
 🌍 Palestinian |💻 Computer Engineer
