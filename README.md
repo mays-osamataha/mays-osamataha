@@ -8,6 +8,7 @@ Hi there, I'm Mays Taha! 👋
 🌟 I believe in patience, cooperation, and the power of code to drive positive change!
 
 🚀 Technologies & Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -19,12 +20,7 @@ Hi there, I'm Mays Taha! 👋
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-📊 GitHub Stats  
-![Mays's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
 
-📈 GitHub Activity  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark)  
 
 ---  
 💬 Let’s Build Something Amazing  
