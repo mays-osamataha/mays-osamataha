@@ -1,6 +1,9 @@
 Hi there, I'm Mays Taha! 👋
+
 🌍 Palestinian |💻 Computer Engineer
+
 |🎯 Full Stack Developer |💡Problem Solver
+
 
 
 👨‍💻 I'm a full-stack developer passionate about building impactful applications. I enjoy learning new technologies, improving my problem-solving skills, and collaborating on meaningful projects.
